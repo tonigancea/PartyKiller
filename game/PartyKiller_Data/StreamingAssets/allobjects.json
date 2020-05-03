@@ -1,0 +1,860 @@
+{
+  "Items": [
+    {
+      "name": "Bathroom",
+      "parent": "root",
+      "observations": "placeable",
+      "sound1": "NarrBathroom",
+      "sound2": "Bathroom",
+      "sound3": ""
+    },
+
+    {
+      "name": "Mrs_Owlbear",
+      "parent": "Bathroom",
+      "observations": "placeable",
+      "sound1": "Mrs_Owlbear",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "About",
+      "parent": "Mrs_Owlbear",
+      "observations": "",
+      "sound1": "About",
+      "sound2": "AboutOwlbear",
+      "sound3": ""
+    },
+    {
+      "name": "Speak",
+      "parent": "Mrs_Owlbear",
+      "observations": "",
+      "sound1": "Speak",
+      "sound2": "SpeakOwlbear",
+      "sound3": ""
+    },
+
+    {
+      "name": "Mirror",
+      "parent": "Bathroom",
+      "observations": "placeable",
+      "sound1": "Mirror",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Mirror",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "AboutMirror",
+      "sound3": ""
+    },
+
+    {
+      "name": "Window",
+      "parent": "Bathroom",
+      "observations": "placeable",
+      "sound1": "Window",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Window",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "AboutWindow",
+      "sound3": ""
+    },
+    {
+      "name": "Look_Closer",
+      "parent": "Window",
+      "observations": "",
+      "sound1": "LookCloser",
+      "sound2": "InspectWindow",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door2-2",
+      "parent": "Bathroom",
+      "observations": "placeable",
+      "sound1": "DoorToDiningRoom",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door2-2",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "UnlockedDoor",
+      "sound3": ""
+    },
+    {
+      "name": "Open",
+      "parent": "Door2-2",
+      "observations": "",
+      "sound1": "Open",
+      "sound2": "OpenAndCloseDoor",
+      "sound3": ""
+    },
+
+    {
+      "name": "Dining_Room",
+      "parent": "root",
+      "observations": "placeable",
+      "sound1": "NarrDining",
+      "sound2": "DiningRoom",
+      "sound3": ""
+    },
+
+    {
+      "name": "Diz",
+      "parent": "Dining_Room",
+      "observations": "placeable",
+      "sound1": "Diz",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "About",
+      "parent": "Diz",
+      "observations": "",
+      "sound1": "About",
+      "sound2": "AboutDiz",
+      "sound3": ""
+    },
+    {
+      "name": "Speak",
+      "parent": "Diz",
+      "observations": "",
+      "sound1": "Speak",
+      "sound2": "SpeakDiz",
+      "sound3": ""
+    },
+
+    {
+      "name": "Pathos",
+      "parent": "Dining_Room",
+      "observations": "placeable",
+      "sound1": "Pathos",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "About",
+      "parent": "Pathos",
+      "observations": "",
+      "sound1": "About",
+      "sound2": "AboutPathos",
+      "sound3": ""
+    },
+    {
+      "name": "Speak",
+      "parent": "Pathos",
+      "observations": "",
+      "sound1": "Speak",
+      "sound2": "SpeakPathos",
+      "sound3": ""
+    },
+    {
+      "name": "Accuse",
+      "parent": "Pathos",
+      "observations": "hidden",
+      "sound1": "Accuse",
+      "sound2": "PathosAccused",
+      "sound3": ""
+    },
+
+    {
+      "name": "Kira",
+      "parent": "Dining_Room",
+      "observations": "placeable",
+      "sound1": "Kira",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "About",
+      "parent": "Kira",
+      "observations": "",
+      "sound1": "About",
+      "sound2": "AboutKira",
+      "sound3": ""
+    },
+    {
+      "name": "Speak",
+      "parent": "Kira",
+      "observations": "",
+      "sound1": "Speak",
+      "sound2": "SpeakKira",
+      "sound3": ""
+    },
+
+    {
+      "name": "Table",
+      "parent": "Dining_Room",
+      "observations": "placeable",
+      "sound1": "Table",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Table",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "AboutTable",
+      "sound3": ""
+    },
+
+    {
+      "name": "Vinyl_Player",
+      "parent": "Dining_Room",
+      "observations": "placeable",
+      "sound1": "VinylPlayer",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Vinyl_Player",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "VinylDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Play_Music",
+      "parent": "Vinyl_Player",
+      "observations": "",
+      "sound1": "PlayMusic",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Stop_Music",
+      "parent": "Vinyl_Player",
+      "observations": "",
+      "sound1": "StopMusic",
+      "sound2": "needleVinyl",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door2-1",
+      "parent": "Dining_Room",
+      "observations": "placeable",
+      "sound1": "DoorToBathroom",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door2-1",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "UnlockedDoor",
+      "sound3": ""
+    },
+    {
+      "name": "Open",
+      "parent": "Door2-1",
+      "observations": "",
+      "sound1": "Open",
+      "sound2": "OpenAndCloseDoor",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door1-1",
+      "parent": "Dining_Room",
+      "observations": "placeable",
+      "sound1": "DoorToStudy",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door1-1",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "UnlockedDoor",
+      "sound3": ""
+    },
+    {
+      "name": "Open",
+      "parent": "Door1-1",
+      "observations": "",
+      "sound1": "Open",
+      "sound2": "OpenAndCloseDoor",
+      "sound3": ""
+    },
+
+    {
+      "name": "Study",
+      "parent": "root",
+      "observations": "placeable",
+      "sound1": "NarrStudy",
+      "sound2": "Study",
+      "sound3": ""
+    },
+
+    {
+      "name": "Elminster",
+      "parent": "Study",
+      "observations": "placeable",
+      "sound1": "Elminster",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "About",
+      "parent": "Elminster",
+      "observations": "",
+      "sound1": "About",
+      "sound2": "AboutElminster",
+      "sound3": ""
+    },
+    {
+      "name": "Inspect",
+      "parent": "Elminster",
+      "observations": "",
+      "sound1": "Inspect",
+      "sound2": "InspectElminster",
+      "sound3": ""
+    },
+
+    {
+      "name": "Desk",
+      "parent": "Study",
+      "observations": "placeable",
+      "sound1": "Desk",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Desk",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "DeskDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Inspect",
+      "parent": "Desk",
+      "observations": "",
+      "sound1": "Inspect",
+      "sound2": "DeskWithKeys",
+      "sound3": "DeskWithoutKeys"
+    },
+    {
+      "name": "Get_Key",
+      "parent": "Desk",
+      "observations": "hidden",
+      "sound1": "GetKey",
+      "sound2": "GetKeyNarrative",
+      "sound3": ""
+    },
+
+    {
+      "name": "Painting_of_Elminster",
+      "parent": "Study",
+      "observations": "placeable",
+      "sound1": "PaintingOfElminster",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Painting_of_Elminster",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "PaintingElminsterDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Inspect",
+      "parent": "Painting_of_Elminster",
+      "observations": "",
+      "sound1": "Inspect",
+      "sound2": "InspectPainting",
+      "sound3": ""
+    },
+
+    {
+      "name": "Porcelain_Vase",
+      "parent": "Study",
+      "observations": "placeable",
+      "sound1": "LargePorcelain",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Porcelain_Vase",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "VaseDescription",
+      "sound3": ""
+    },
+
+    {
+      "name": "Chest",
+      "parent": "Study",
+      "observations": "placeable",
+      "sound1": "Chest",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Chest",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "ChestDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Open",
+      "parent": "Chest",
+      "observations": "",
+      "sound1": "Open",
+      "sound2": "InsideChest",
+      "sound3": "InsideEmptyChest"
+    },
+    {
+      "name": "Pick",
+      "parent": "Chest",
+      "observations": "hidden",
+      "sound1": "PickLever",
+      "sound2": "PickUpLever",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door1-2",
+      "parent": "Study",
+      "observations": "placeable",
+      "sound1": "DoorToDiningRoom",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door1-2",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "UnlockedDoor",
+      "sound3": ""
+    },
+    {
+      "name": "Open",
+      "parent": "Door1-2",
+      "observations": "",
+      "sound1": "Open",
+      "sound2": "OpenAndCloseDoor",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door3-1",
+      "parent": "Study",
+      "observations": "placeable",
+      "sound1": "AccessToLibrary",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door3-1",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "LockedDoor",
+      "sound3": "UnlockedDoor"
+    },
+    {
+      "name": "Open",
+      "parent": "Door3-1",
+      "observations": "hidden",
+      "sound1": "Open",
+      "sound2": "OpenAndCloseDoor",
+      "sound3": ""
+    },
+
+    {
+      "name": "Library",
+      "parent": "root",
+      "observations": "placeable",
+      "sound1": "NarrLibrary",
+      "sound2": "Library",
+      "sound3": ""
+    },
+
+    {
+      "name": "Bookcase",
+      "parent": "Library",
+      "observations": "placeable",
+      "sound1": "Bookcase",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Bookcase",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "BookcaseDescription",
+      "sound3": "BookcaseDescriptionWithBook"
+    },
+    {
+      "name": "Inspect",
+      "parent": "Bookcase",
+      "observations": "",
+      "sound1": "Inspect",
+      "sound2": "BookFalls",
+      "sound3": "InspectBookcase"
+    },
+    {
+      "name": "Pick_Book",
+      "parent": "Bookcase",
+      "observations": "hidden",
+      "sound1": "PickBook",
+      "sound2": "LookAtTheBook",
+      "sound3": ""
+    },
+
+    {
+      "name": "Suit_of_Armor",
+      "parent": "Library",
+      "observations": "placeable",
+      "sound1": "SuitOfArmor",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Suit_of_Armor",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "SuitDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Look_Closer",
+      "parent": "Suit_of_Armor",
+      "observations": "",
+      "sound1": "LookCloser",
+      "sound2": "InspectSuit",
+      "sound3": ""
+    },
+
+    {
+      "name": "Painting_of_the_Tower",
+      "parent": "Library",
+      "observations": "placeable",
+      "sound1": "PaintingOfTheTower",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Painting_of_the_Tower",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "PaintingTowerDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Interact",
+      "parent": "Painting_of_the_Tower",
+      "observations": "",
+      "sound1": "Interact",
+      "sound2": "PaintingTowerInteract",
+      "sound3": ""
+    },
+
+    {
+      "name": "Fish_Tank",
+      "parent": "Library",
+      "observations": "placeable",
+      "sound1": "FishTank",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Fish_Tank",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "FishtankDescription",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door3-2",
+      "parent": "Library",
+      "observations": "placeable",
+      "sound1": "DoorToStudy",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door3-2",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "UnlockedDoor",
+      "sound3": ""
+    },
+    {
+      "name": "Open",
+      "parent": "Door3-2",
+      "observations": "",
+      "sound1": "Open",
+      "sound2": "OpenAndCloseDoor",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door4-1",
+      "parent": "Library",
+      "observations": "placeable",
+      "sound1": "AccessToAttic",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door4-1",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "TryToFindLadder",
+      "sound3": "SteadyLadder"
+    },
+    {
+      "name": "Inspect",
+      "parent": "Door4-1",
+      "observations": "",
+      "sound1": "Inspect",
+      "sound2": "InspectClimb",
+      "sound3": "InspectClimbUnlocked"
+    },
+    {
+      "name": "Use_Lever",
+      "parent": "Door4-1",
+      "observations": "hidden",
+      "sound1": "UseLever",
+      "sound2": "LadderDescending",
+      "sound3": ""
+    },
+    {
+      "name": "Climb",
+      "parent": "Door4-1",
+      "observations": "hidden",
+      "sound1": "Climb",
+      "sound2": "ladder",
+      "sound3": ""
+    },
+
+    {
+      "name": "Attic",
+      "parent": "root",
+      "observations": "placeable",
+      "sound1": "NarrAttic",
+      "sound2": "Attic",
+      "sound3": ""
+    },
+
+    {
+      "name": "Old_Shoes",
+      "parent": "Attic",
+      "observations": "placeable",
+      "sound1": "OldShoes",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Old_Shoes",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "OldShoesDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Sniff",
+      "parent": "Old_Shoes",
+      "observations": "",
+      "sound1": "Sniff",
+      "sound2": "ShoesSmell",
+      "sound3": ""
+    },
+
+    {
+      "name": "Clothes",
+      "parent": "Attic",
+      "observations": "placeable",
+      "sound1": "Clothes",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Clothes",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "ClothesDescription",
+      "sound3": ""
+    },
+    {
+      "name": "Fashion_Opinion",
+      "parent": "Clothes",
+      "observations": "",
+      "sound1": "FashionOpinion",
+      "sound2": "ReadFashionMate",
+      "sound3": ""
+    },
+
+    {
+      "name": "Old_Box",
+      "parent": "Attic",
+      "observations": "placeable",
+      "sound1": "OldBox",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Description",
+      "parent": "Old_Box",
+      "observations": "",
+      "sound1": "Description",
+      "sound2": "DescriptionOldBox",
+      "sound3": "DescriptionUnlockedBox"
+    },
+    {
+      "name": "Insert_Passcode",
+      "parent": "Old_Box",
+      "observations": "",
+      "sound1": "InsertPasscode",
+      "sound2": "TutorialPasscode",
+      "sound3": "OpenBox"
+    },
+    {
+      "name": "One",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "One",
+      "sound2": "OneInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Two",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Two",
+      "sound2": "TwoInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Three",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Three",
+      "sound2": "ThreeInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Four",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Four",
+      "sound2": "FourInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Five",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Five",
+      "sound2": "FiveInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Six",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Six",
+      "sound2": "SixInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Seven",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Seven",
+      "sound2": "SevenInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Eight",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Eight",
+      "sound2": "EightInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Nine",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Nine",
+      "sound2": "NineInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Zero",
+      "parent": "Insert_Passcode",
+      "observations": "",
+      "sound1": "Zero",
+      "sound2": "ZeroInserted",
+      "sound3": ""
+    },
+    {
+      "name": "Open",
+      "parent": "Old_Box",
+      "observations": "hidden",
+      "sound1": "Open",
+      "sound2": "LetterFromRoger",
+      "sound3": ""
+    },
+
+    {
+      "name": "Door4-2",
+      "parent": "Attic",
+      "observations": "placeable",
+      "sound1": "AccessToLibrary",
+      "sound2": "",
+      "sound3": ""
+    },
+    {
+      "name": "Check",
+      "parent": "Door4-2",
+      "observations": "",
+      "sound1": "Check",
+      "sound2": "SteadyLadder",
+      "sound3": ""
+    },
+    {
+      "name": "Go_Down",
+      "parent": "Door4-2",
+      "observations": "",
+      "sound1": "GoDown",
+      "sound2": "ladder",
+      "sound3": ""
+    }
+  ]
+}
