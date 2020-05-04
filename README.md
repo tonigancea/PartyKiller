@@ -8,7 +8,7 @@ Game built for the **visually impaired**. The game is _audio based_, you will ha
 The game was build in Unity/C# and you can find in this repo, all the source files & resources used.
 
 ## How to run
-The can be run on Windows. It was tested on Windows 10.  
+The game can be run on Windows. It was tested on Windows 10.  
 1. Navigate to `game` folder.  
 2. Execute the `PartyKiller.exe` file.
 
